@@ -1,0 +1,4 @@
+org\bit\unit\Tools.class
+org\bit\unit\AppendToFile.class
+org\bit\unit\FileUtil.class
+org\bit\unit\TwoFileIsSame.class
